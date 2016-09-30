@@ -1,0 +1,45 @@
+body {
+	text-align: center;
+	background-color: #A0D2F4
+		}
+h1 {
+	font-family: Verdana;
+	color: #1860CE;
+}
+h4 {
+	font-size: 30px;
+	font-family: Verdana;
+	border-bottom: 10px dotted white;
+}
+
+p { 
+	font-family: Ariel;
+	font-size: 35px;
+	text-align: center;
+	margin: auto;
+}
+
+a {
+	font-size: 23px;
+	text-decoration: none;
+	font-family: Verdana;
+}
+div {
+	 height: 50px;
+    width: 300px;
+    border-color: #6495ed;
+    background-color: white;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+	border: 5px solid #1860CE;
+}
+img {
+	padding: 2px;
+	border: 10px solid white;
+}
+
+table {
+	text-align: center;
+	
+}

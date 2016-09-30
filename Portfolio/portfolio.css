@@ -1,0 +1,41 @@
+body{
+	text-align:center;
+	background-color: #A0D2F4;
+	border-right:10px solid #1860CE;
+	border-left:10px solid #1860CE;
+}
+
+h1{
+	font-family:Verdana;
+	color: #1860CE;
+	font-size: 40px;
+}
+
+p{
+	font-size: 32px;
+	text-align: center;
+}
+
+img {
+	border-bottom: 15px dotted white;
+	border-top: 15px dotted white;
+	width: 850px;
+	height: 450px;
+}
+
+a {
+	font-size: 23px;
+	text-decoration: none;
+	font-family: Verdana;
+}
+
+div {
+	 height: 50px;
+    width: 300px;
+    border-color: #6495ed;
+    background-color: white;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+	border: 5px solid #1860CE;
+}
